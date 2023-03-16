@@ -3,9 +3,11 @@
 A functioning linked list using pointers in C++.
 
 TO COMPILE USING A TERMINAL:
+
 g++ -Wall -Werror -std=c++14 -O -o main Node.cpp LinkedList.cpp Main.cpp
 
 TO RUN:
+
 ./main
 
 
