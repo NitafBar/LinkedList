@@ -1,5 +1,5 @@
-#include "lab09Node.h"
-#include "lab09LinkedList.h"
+#include "Node.h"
+#include "LinkedList.h"
 #include <iostream>
 
 int main (void) {
