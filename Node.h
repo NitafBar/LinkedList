@@ -13,4 +13,4 @@ class Node {
     std::shared_ptr<Node> next;
 };
 
-#endif //NODE_H
+#endif // NODE_H
