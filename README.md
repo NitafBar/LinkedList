@@ -14,5 +14,5 @@ TO RUN:
 
 The files used for the linked list are:
 - The "Node.h" and "Node.cpp" files for the invidual nodes within the linked list.
-- The "LinkedList.h" and "LinkedList.cpp" for the functions of the linked list itself.
+- The "LinkedList.h" and "LinkedList.cpp" for the functionality of the linked list itself.
 - A "Main.cpp" file to call the functions and work with the linked list.
