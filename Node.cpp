@@ -1,4 +1,4 @@
-#include "lab09Node.h"
+#include "Node.h"
 
 Node::Node(int data, std::shared_ptr<Node> next) {
     this->data = data;
