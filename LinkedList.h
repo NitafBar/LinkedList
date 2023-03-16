@@ -1,5 +1,5 @@
-#ifndef LAB09LINKEDLIST_H
-#define LAB09LINKEDLIST_H
+#ifndef LINKEDLIST_H
+#define LINKEDLIST_H
 
 #include "lab09Node.h"
 #include <limits>
@@ -29,4 +29,4 @@ private:
    int get(std::shared_ptr<Node> node, int i);
 };
 
-#endif // LAB09LINKEDLIST_H
+#endif // LINKEDLIST_H
