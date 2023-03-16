@@ -1,7 +1,7 @@
 #ifndef LINKEDLIST_H
 #define LINKEDLIST_H
 
-#include "lab09Node.h"
+#include "Node.h"
 #include <limits>
 #include <memory>
 
