@@ -1,5 +1,5 @@
-#ifndef LAB09NODE_H
-#define LAB09NODE_H
+#ifndef NODE_H
+#define NODE_H
 
 #include <memory>
 
@@ -13,4 +13,4 @@ class Node {
     std::shared_ptr<Node> next;
 };
 
-#endif //LAB09NODE_H
+#endif //NODE_H
